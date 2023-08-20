@@ -1,0 +1,22 @@
+li:hover a {
+    color: #f0e68c;
+}
+
+.navbar-nav {
+    --bs-nav-link-hover-color: #f0e68c;
+
+}
+
+.nav-item.active {
+    color: #f0e68c !important;
+    background-color: transparent;
+  }
+  
+
+  .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: black;
+    background-color: #f0e68c;
+    border-radius: 3px;
+  
+
+}

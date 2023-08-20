@@ -1,0 +1,20 @@
+<div class="addRest">
+    <h1>Add Restaurant</h1>
+</div>
+<div class="addFormDiv">
+<form [formGroup]="addRestaurant" (ngSubmit)="createResto()">
+    <div class="mb-3">
+      <label class="form-label">Restaurant Name</label>
+      <input type="text" class="form-control" placeholder="Enter Restaurant Name" formControlName="name">
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Address</label>
+      <input type="text" class="form-control" placeholder="Enter Restaurant Address" formControlName="address">
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Mobile</label>
+      <input type="text" class="form-control" placeholder="Enter Restaurant Mobile" formControlName="mobile">
+    </div>
+    <button type="submit" class="btn btn-dark" (click)="simpleAlert()">Add</button>
+  </form>
+</div>

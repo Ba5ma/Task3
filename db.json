@@ -1,0 +1,72 @@
+{
+  "resto": [
+    {
+      "name": "MacDonalds",
+      "address": "Oman",
+      "mobile": "72345677",
+      "image":"./assets/mc.png",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Cake Creation",
+      "address": "Oman",
+      "mobile": "9234112",
+      "image":"./assets/logo-blue-1024x1022.png"
+    },
+    {
+      "id": 3,
+      "name": "Pizza Hut",
+      "address": "Oman",
+      "mobile": "9654333",
+      "image":"./assets/Pizza_Hut_logo.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "Subway",
+      "address": "Oman",
+      "mobile": "2876543",
+      "image":"./assets/subway-monogram-01.jpg"
+    },
+    {
+      "name": "Burger King",
+      "address": "Barka",
+      "mobile": "2808232",
+      "image":"./assets/Burger_King_logo_(1999).svg.png",
+      "id": 5
+    },
+    {
+      "name": "KFC",
+      "address": "Ghala",
+      "mobile": "27865632",
+      "image":"./assets/KFC_logo.svg.png",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "Basma",
+      "email": "basma@email.com",
+      "password": "1",
+      "id": 1
+    },
+    {
+      "name": "abc",
+      "email": "abc@gmial.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "Amal",
+      "email": "amal@gmail.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "name": "Ahmed",
+      "email": "ahmed@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ]
+}

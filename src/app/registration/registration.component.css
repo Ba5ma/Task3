@@ -1,0 +1,7 @@
+.img-fluid{
+    max-width: 80%;
+}
+
+.row>*{
+    max-width: 90%;
+}

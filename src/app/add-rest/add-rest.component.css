@@ -1,0 +1,22 @@
+.addRest{
+    padding: auto;
+    background-color: #f0e68c;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+.addFormDiv{
+    width: 40%;
+    margin: auto;
+    position: relative;
+    padding-top: 40px;
+}
+
+button{
+    position: absolute;
+    margin: 0;
+   
+    left: 50%;
+}

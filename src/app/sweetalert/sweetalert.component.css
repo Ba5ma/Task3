@@ -1,0 +1,42 @@
+.titleh{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.formDiv{
+    width: 25%;
+    margin: auto;
+    border: 1px solid gainsboro;
+    padding: 50px;
+    box-shadow: 5;
+}
+
+.loginDiv{
+    width: 40%;
+    margin: auto;
+    border: 1px solid gainsboro;
+    padding: 50px;
+    box-shadow: 5;
+    margin-top: 5%;
+    position: relative;
+}
+
+button{
+    margin: auto;
+    position: absolute;
+    left:40%;
+
+}
+
+.addRest{
+    padding: auto;
+    background-color: #f0e68c;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+

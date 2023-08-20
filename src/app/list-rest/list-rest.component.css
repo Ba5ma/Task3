@@ -1,0 +1,38 @@
+.table{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.addRest{
+    padding: auto;
+    background-color: #f0e68c;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+
+th{
+    padding: 20px 5px;
+    background-color: black;
+    color: white;
+}
+
+td{
+    padding: 10px 5px;
+}
+
+fa-icon{
+font-size: 25px;
+}
+
+
+.trashic{
+color: red;
+}
+
+.penic{
+    color: navy;
+}
